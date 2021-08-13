@@ -1,0 +1,3 @@
+- Use a CSS Grid to recreate this KenKen puzzle.
+- The KenKen puzzle should have responsive sizing
+- BONUS: The user should be able to potentially “play” the puzzle.
